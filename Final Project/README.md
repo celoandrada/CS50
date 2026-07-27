@@ -3,7 +3,7 @@
 A command-line roulette game built in Python as my final project for Harvard's CS50P.
 
 ## Video Demo
-
+https://youtu.be/bhrAXhP_x7s
 
 
 ## Features
